@@ -93,6 +93,7 @@ delay(500);
     }
     }
     //Se mostraran los numeros en el display de 7 segmentos
+//numero 0
 void numero_0(){
      digitalWrite(a,HIGH);
      digitalWrite(b,HIGH);
@@ -104,6 +105,7 @@ void numero_0(){
      digitalWrite(PD,LOW);
      
    }
+//numero 1
 void numero_1(){
      digitalWrite(a,LOW);
      digitalWrite(b,HIGH);
@@ -114,6 +116,7 @@ void numero_1(){
      digitalWrite(g,LOW);
      digitalWrite(PD,LOW);
    }
+//numero 2
 void numero_2(){
      digitalWrite(a,HIGH);
      digitalWrite(b,HIGH);
@@ -124,6 +127,7 @@ void numero_2(){
      digitalWrite(g,HIGH);
      digitalWrite(PD,LOW);
    }
+//numero 3
    void numero_3(){
      digitalWrite(a, HIGH);
      digitalWrite(b, HIGH);
@@ -134,6 +138,7 @@ void numero_2(){
      digitalWrite(g, HIGH);
      digitalWrite(PD,LOW);
    }
+//numero 4
     void numero_4(){
      digitalWrite(a,LOW);
      digitalWrite(b,HIGH);
@@ -144,6 +149,7 @@ void numero_2(){
      digitalWrite(g,HIGH);
      digitalWrite(PD,LOW);
 }
+//numero 5
  void numero_5(){
      digitalWrite(a,HIGH);
      digitalWrite(b,LOW);
@@ -154,6 +160,7 @@ void numero_2(){
      digitalWrite(g,HIGH);
      digitalWrite(PD,LOW);
    }
+//numero 6
    void numero_6(){
      digitalWrite(a,HIGH);
      digitalWrite(b,LOW);
@@ -164,6 +171,7 @@ void numero_2(){
      digitalWrite(g,HIGH);
      digitalWrite(PD,LOW);
    }
+//numero 7
    void numero_7(){
      digitalWrite(a,HIGH);
      digitalWrite(b,HIGH);
@@ -174,6 +182,7 @@ void numero_2(){
      digitalWrite(g,LOW);
      digitalWrite(PD,LOW);
    }
+//numero 8
    void numero_8(){
      digitalWrite(a,HIGH);
      digitalWrite(b,HIGH);
@@ -184,6 +193,7 @@ void numero_2(){
      digitalWrite(g,HIGH);
      digitalWrite(PD,LOW);
    }
+//numero 9
    void numero_9(){
      digitalWrite(a,HIGH);
      digitalWrite(b,HIGH);
