@@ -1,3 +1,13 @@
+/*
+Fundación Kinal
+Centro Educativo Técnico Labral Kinal 
+Electrónica
+Grado: Quinto
+Sección: A
+Curso: Taller de Electrónica Digital y Reparación de Computadoras I
+Nombre: Eliezer Denilson Gaitan Corado
+Carné: 2018450 
+*/
 // Definición de los pines de los botones de avance y retroceso
 #define PIN_AVANCE 2
 #define PIN_RETROCESO 3
