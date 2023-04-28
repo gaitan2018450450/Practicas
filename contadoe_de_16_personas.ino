@@ -5,7 +5,7 @@
    Quinto electronica
    Codigo Tecnico: EB5AM  
    Curso: Taller de electronica digital y reparacion de computadoras I
-   Proyecto: LCD   
+   Proyecto: contador (16 personas) 
    De: Eliezer Denilson Gaitán Corado
 */
 //libreria a utilizar
@@ -20,7 +20,7 @@
 #define D7  2
 #define buzzer 13
 
-byte arriba[] = {
+byte manos_arriba[] = {
   B00100,
   B01110,
   B00100,
@@ -30,7 +30,7 @@ byte arriba[] = {
   B00100,
   B01010
 };
-byte abajo[] = {
+byte manos_abajo[] = {
  B00100,
   B01110,
   B00100,
