@@ -5,7 +5,7 @@
    Quinto electronica
    Codigo Tecnico: EB5AM  
    Curso: Taller de electronica digital y reparacion de computadoras I
-   Proyecto: SENSOR DE PARQUEO     
+   Proyecto: termometro     
    De: Eliezer Denilson Gaitán Corado
 */
 
